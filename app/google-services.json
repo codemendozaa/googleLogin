@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254918565521",
+    "firebase_url": "https://hackatrix-7813c.firebaseio.com",
+    "project_id": "hackatrix-7813c",
+    "storage_bucket": "hackatrix-7813c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254918565521:android:198b4351f9509bd11ca930",
+        "android_client_info": {
+          "package_name": "com.codemen.newsvalidator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254918565521-sf7ipl2jdgmu4oddmi079gl2ei7h5duu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUudf6Bq2tKVuqCsVIRlcDB7qPZMKVE2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254918565521-sf7ipl2jdgmu4oddmi079gl2ei7h5duu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
